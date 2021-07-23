@@ -1,0 +1,14 @@
+{
+  "name": "gh-actions-demo",
+  "version": "1.0.0",
+  "description": "github actionsdemo",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+   "devDependencies": {
+    "jest": "^26.6.1",
+   },
+  "author": "Sachi",
+  "license": "ISC"
+}
