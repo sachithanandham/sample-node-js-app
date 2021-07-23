@@ -1,3 +1,3 @@
-const add = function(){
+export default function(){
   
 }
